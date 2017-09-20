@@ -12,7 +12,7 @@ return [
     | any other location as required by the application or its packages.
     */
 
-    'name' => env('APP_NAME', 'Laravel'),
+    'name' => 'Laravel',
 
     /*
     |--------------------------------------------------------------------------
@@ -51,7 +51,9 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', 'http://zhugz.com'),
+
+    'old_url' => 'http://192.168.0.1/',
 
     /*
     |--------------------------------------------------------------------------
@@ -64,7 +66,7 @@ return [
     |
     */
 
-    'timezone' => 'UTC',
+    'timezone' => 'PRC',
 
     /*
     |--------------------------------------------------------------------------
@@ -177,6 +179,11 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
 
+        /**
+         * 第三方引入的providers
+         */
+        //Zizaco\Entrust\EntrustServiceProvider::class,
+
     ],
 
     /*
@@ -225,6 +232,7 @@ return [
         'URL' => Illuminate\Support\Facades\URL::class,
         'Validator' => Illuminate\Support\Facades\Validator::class,
         'View' => Illuminate\Support\Facades\View::class,
+        'Entrust'   => Zizaco\Entrust\EntrustFacade::class,
 
     ],
 
