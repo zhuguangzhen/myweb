@@ -52,7 +52,7 @@
                             <div class="f-l avatar">
                                 <!--<img width="34" src="img/gift/canon.jpg"/>-->
                             </div>
-                            <div class="f-l name">IPhoneX-256G</div>
+                            <div class="f-l name">麦烧烤肉一次</div>
                         </li>
                     </ul>
                 </div>
@@ -63,7 +63,7 @@
                             <div class="f-l avatar">
                                 <!--<img width="34" src="img/gift/canon.jpg"/>-->
                             </div>
-                            <div class="f-l name">Tiffany 18K笑脸项链</div>
+                            <div class="f-l name">猫山王榴莲一个</div>
                         </li>
                     </ul>
                 </div>
@@ -74,13 +74,13 @@
                             <div class="f-l avatar">
                                 <!--<img width="34" src="img/gift/canon.jpg"/>-->
                             </div>
-                            <div class="f-l name">LOVO罗莱生活春秋被</div>
+                            <div class="f-l name">哈根达斯</div>
                         </li>
                         <li class="clearfix win-li">
                             <div class="f-l avatar">
                                 <!--<img width="34" src="img/gift/canon.jpg"/>-->
                             </div>
-                            <div class="f-l name">美的手持无线吸尘器</div>
+                            <div class="f-l name">脏脏包</div>
                         </li>
                     </ul>
                 </div>
@@ -97,31 +97,31 @@
                             <div class="f-l avatar">
                                 <!--<img width="34" src="img/gift/yashua.jpg"/>-->
                             </div>
-                            <div class="f-l name">阿尔郎电动平衡车</div>
+                            <div class="f-l name"></div>
                         </li>
                         <li class="clearfix win-li">
                             <div class="f-l avatar">
                                 <!--<img width="34" src="img/gift/anmo.jpg"/>-->
                             </div>
-                            <div class="f-l name">美的蒸汽挂烫机</div>
+                            <div class="f-l name"></div>
                         </li>
                         <li class="clearfix win-li">
                             <div class="f-l avatar">
                                 <!--<img width="34" src="img/gift/anmo.jpg"/>-->
                             </div>
-                            <div class="f-l name">铁三角复刻版耳机</div>
+                            <div class="f-l name"></div>
                         </li>
                         <li class="clearfix win-li">
                             <div class="f-l avatar">
                                 <!--<img width="34" src="img/gift/anmo.jpg"/>-->
                             </div>
-                            <div class="f-l name">第八代kindle</div>
+                            <div class="f-l name"></div>
                         </li>
                         <li class="clearfix win-li">
                             <div class="f-l avatar">
                                 <!--<img width="34" src="img/gift/anmo.jpg"/>-->
                             </div>
-                            <div class="f-l name">枕头</div>
+                            <div class="f-l name"></div>
                         </li>
                     </ul>
                 </div>
@@ -132,19 +132,19 @@
                             <div class="f-l avatar">
                                 <!--<img width="34" src="img/gift/chongdian.jpg"/>-->
                             </div>
-                            <div class="f-l name">卡拉羊（Carany）拉杆箱</div>
+                            <div class="f-l name">卡拉羊</div>
                         </li>
                         <li class="clearfix win-li">
                             <div class="f-l avatar">
                                 <!--<img width="34" src="img/gift/nuanshou.jpg"/>-->
                             </div>
-                            <div class="f-l name">美的家用多功能电烤箱</div>
+                            <div class="f-l name"></div>
                         </li>
                         <li class="clearfix win-li">
                             <div class="f-l avatar">
                                 <!--<img width="34" src="img/gift/bao.jpg"/>-->
                             </div>
-                            <div class="f-l name">华为运动手环</div>
+                            <div class="f-l name"></div>
                         </li>
                     </ul>
                 </div>
@@ -155,149 +155,22 @@
                             <div class="f-l avatar">
                                 <!--<img width="34" src="img/gift/chongdian.jpg"/>-->
                             </div>
-                            <div class="f-l name">宝石5200ma移动电源</div>
+                            <div class="f-l name"></div>
                         </li>
                         <li class="clearfix win-li">
                             <div class="f-l avatar">
                                 <!--<img width="34" src="img/gift/nuanshou.jpg"/>-->
                             </div>
-                            <div class="f-l name">乐泡薄荷10000ma移动电源</div>
+                            <div class="f-l name"></div>
                         </li>
                         <li class="clearfix win-li">
                             <div class="f-l avatar">
                                 <!--<img width="34" src="img/gift/bao.jpg"/>-->
                             </div>
-                            <div class="f-l name">乐上LEXON男卡多功能包</div>
+                            <div class="f-l name"></div>
                         </li>
                     </ul>
-                </div>
-                <div class="award-con">
-                    <h3 class="award-title">特等奖</h3>
-                    <ul class="win">
-                        <li class="clearfix win-li">
-                            <div class="f-l avatar">
-                                <!--<img width="34" src="img/gift/canon.jpg"/>-->
-                            </div>
-                            <div class="f-l name">IPhoneX-256G</div>
-                        </li>
-                    </ul>
-                </div>
-                <div class="award-con">
-                    <h3 class="award-title">一等奖</h3>
-                    <ul class="win">
-                        <li class="clearfix win-li">
-                            <div class="f-l avatar">
-                                <!--<img width="34" src="img/gift/canon.jpg"/>-->
-                            </div>
-                            <div class="f-l name">Tiffany 18K笑脸项链</div>
-                        </li>
-                    </ul>
-                </div>
-                <div class="award-con">
-                    <h3 class="award-title">二等奖</h3>
-                    <ul class="win">
-                        <li class="clearfix win-li">
-                            <div class="f-l avatar">
-                                <!--<img width="34" src="img/gift/canon.jpg"/>-->
-                            </div>
-                            <div class="f-l name">LOVO罗莱生活春秋被</div>
-                        </li>
-                        <li class="clearfix win-li">
-                            <div class="f-l avatar">
-                                <!--<img width="34" src="img/gift/canon.jpg"/>-->
-                            </div>
-                            <div class="f-l name">美的手持无线吸尘器</div>
-                        </li>
-                    </ul>
-                </div>
-                <div class="award-con">
-                    <h3 class="award-title">三等奖</h3>
-                    <ul class="win">
-                        <li class="clearfix win-li">
-                            <div class="f-l avatar">
-                                <!--<img width="34" src="img/gift/jingdong.jpg"/>-->
-                            </div>
-                            <div class="f-l name">哈根达斯尊礼卡</div>
-                        </li>
-                        <li class="clearfix win-li">
-                            <div class="f-l avatar">
-                                <!--<img width="34" src="img/gift/yashua.jpg"/>-->
-                            </div>
-                            <div class="f-l name">阿尔郎电动平衡车</div>
-                        </li>
-                        <li class="clearfix win-li">
-                            <div class="f-l avatar">
-                                <!--<img width="34" src="img/gift/anmo.jpg"/>-->
-                            </div>
-                            <div class="f-l name">美的蒸汽挂烫机</div>
-                        </li>
-                        <li class="clearfix win-li">
-                            <div class="f-l avatar">
-                                <!--<img width="34" src="img/gift/anmo.jpg"/>-->
-                            </div>
-                            <div class="f-l name">铁三角复刻版耳机</div>
-                        </li>
-                        <li class="clearfix win-li">
-                            <div class="f-l avatar">
-                                <!--<img width="34" src="img/gift/anmo.jpg"/>-->
-                            </div>
-                            <div class="f-l name">第八代kindle</div>
-                        </li>
-                        <li class="clearfix win-li">
-                            <div class="f-l avatar">
-                                <!--<img width="34" src="img/gift/anmo.jpg"/>-->
-                            </div>
-                            <div class="f-l name">枕头</div>
-                        </li>
-                    </ul>
-                </div>
-                <div class="award-con">
-                    <h3 class="award-title">四等奖</h3>
-                    <ul class="win">
-                        <li class="clearfix win-li">
-                            <div class="f-l avatar">
-                                <!--<img width="34" src="img/gift/chongdian.jpg"/>-->
-                            </div>
-                            <div class="f-l name">卡拉羊（Carany）拉杆箱</div>
-                        </li>
-                        <li class="clearfix win-li">
-                            <div class="f-l avatar">
-                                <!--<img width="34" src="img/gift/nuanshou.jpg"/>-->
-                            </div>
-                            <div class="f-l name">美的家用多功能电烤箱</div>
-                        </li>
-                        <li class="clearfix win-li">
-                            <div class="f-l avatar">
-                                <!--<img width="34" src="img/gift/bao.jpg"/>-->
-                            </div>
-                            <div class="f-l name">华为运动手环</div>
-                        </li>
-                    </ul>
-                </div>
-                <div class="award-con">
-                    <h3 class="award-title">五等奖</h3>
-                    <ul class="win">
-                        <li class="clearfix win-li">
-                            <div class="f-l avatar">
-                                <!--<img width="34" src="img/gift/chongdian.jpg"/>-->
-                            </div>
-                            <div class="f-l name">宝石5200ma移动电源</div>
-                        </li>
-                        <li class="clearfix win-li">
-                            <div class="f-l avatar">
-                                <!--<img width="34" src="img/gift/nuanshou.jpg"/>-->
-                            </div>
-                            <div class="f-l name">乐泡薄荷10000ma移动电源</div>
-                        </li>
-                        <li class="clearfix win-li">
-                            <div class="f-l avatar">
-                                <!--<img width="34" src="img/gift/bao.jpg"/>-->
-                            </div>
-                            <div class="f-l name">乐上LEXON男卡多功能包</div>
-                        </li>
-                    </ul>
-                </div>
-                
+                </div>    
         </div>
         </div>
         
