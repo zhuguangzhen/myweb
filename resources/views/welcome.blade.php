@@ -42,7 +42,7 @@
 <!--右侧奖品名单展示-->
 <aside class="aside-right">
     <div class="aside-main" id="liwu-con" style="height:calc(100% - 40px)">
-        <div class="btn btn-red-outline" data-toggle="modal" id="liwu-title">新年礼物</div>
+        <div class="btn btn-red-outline" data-toggle="modal" id="liwu-title">奖品思密达</div>
         <div id="roll" class="award-main" style="height:calc(100% - 100px)">
             <div class="" id="roll-div">
                 <div class="award-con">
@@ -52,7 +52,7 @@
                             <div class="f-l avatar">
                                 <!--<img width="34" src="img/gift/canon.jpg"/>-->
                             </div>
-                            <div class="f-l name">麦烧烤肉一次</div>
+                            <div class="f-l name">暂未设置</div>
                         </li>
                     </ul>
                 </div>
@@ -63,7 +63,7 @@
                             <div class="f-l avatar">
                                 <!--<img width="34" src="img/gift/canon.jpg"/>-->
                             </div>
-                            <div class="f-l name">猫山王榴莲一个</div>
+                            <div class="f-l name">暂未设置</div>
                         </li>
                     </ul>
                 </div>
@@ -74,13 +74,13 @@
                             <div class="f-l avatar">
                                 <!--<img width="34" src="img/gift/canon.jpg"/>-->
                             </div>
-                            <div class="f-l name">哈根达斯</div>
+                            <div class="f-l name">暂未设置</div>
                         </li>
                         <li class="clearfix win-li">
                             <div class="f-l avatar">
                                 <!--<img width="34" src="img/gift/canon.jpg"/>-->
                             </div>
-                            <div class="f-l name">脏脏包</div>
+                            <!-- <div class="f-l name">脏脏包一个</div> -->
                         </li>
                     </ul>
                 </div>
@@ -91,7 +91,7 @@
                             <div class="f-l avatar">
                                 <!--<img width="34" src="img/gift/jingdong.jpg"/>-->
                             </div>
-                            <div class="f-l name">哈根达斯尊礼卡</div>
+                            <div class="f-l name">暂未设置</div>
                         </li>
                         <li class="clearfix win-li">
                             <div class="f-l avatar">
@@ -132,7 +132,7 @@
                             <div class="f-l avatar">
                                 <!--<img width="34" src="img/gift/chongdian.jpg"/>-->
                             </div>
-                            <div class="f-l name">卡拉羊</div>
+                            <div class="f-l name">再来一次</div>
                         </li>
                         <li class="clearfix win-li">
                             <div class="f-l avatar">
@@ -155,7 +155,7 @@
                             <div class="f-l avatar">
                                 <!--<img width="34" src="img/gift/chongdian.jpg"/>-->
                             </div>
-                            <div class="f-l name"></div>
+                            <div class="f-l name">暂未设置</div>
                         </li>
                         <li class="clearfix win-li">
                             <div class="f-l avatar">

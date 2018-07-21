@@ -812,6 +812,9 @@ function frame(){
             $('#liwu').show();
         }
 
+        $('#canvas').click(function(){
+            $(this).hide();
+        });   
         $('#mingdan').click(function () {
             $(this).fadeIn();
             $('#mingdan-con').slideDown(1000);
