@@ -16,7 +16,7 @@
 
 Route::group(['namespace' => 'Business'], function(){
         Route::get('/', 'BusinessController@index');
-        Route::get('/business', 'BusinessController@index');
+        Route::get('/business/getnews', 'BusinessController@getnews');
 });
 
 Auth::routes();
